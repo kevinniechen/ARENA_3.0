@@ -1,0 +1,70 @@
+# PyTorch (CPU/MPS for macOS)
+torch
+torchvision
+torchaudio
+
+# ML & DL
+huggingface_hub
+torchinfo
+diffusers
+wandb
+accelerate
+ftfy
+safetensors
+openai>=1.56.2
+sentence-transformers
+peft
+
+# Data manipulation and analysis
+einops
+eindex-callum
+pandas
+numpy-stl
+scikit-learn
+hdbscan
+umap-learn
+
+# Utilities
+requests
+pytest
+tqdm
+ipykernel
+notebook
+ipywidgets
+jupyterlab-widgets
+jupyter
+pre-commit
+gdown
+portalocker>=2.0.0
+typeguard
+jaxtyping
+tiktoken
+frozendict
+tabulate
+opencv-python
+nbformat
+docformatter
+pyyaml
+
+# Visualization
+matplotlib
+plotly
+streamlit
+streamlit-antd-components==0.2.5
+streamlit-image-select
+streamlit-on-Hover-tabs
+nnsight>=0.3.5
+imageio-ffmpeg
+mediapy
+
+# Chapter 2 (RL)
+pygame
+gymnasium[other]==0.29.0
+mujoco
+
+# Chapter 3 (evals)
+inspect_ai
+wikipedia
+python-dotenv
+anthropic>=0.42.0
+instructor
